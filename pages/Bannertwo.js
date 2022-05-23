@@ -13,7 +13,7 @@ function Bannertwo() {
    <div className='banner'>
        <div className='bannerleft'>
        <SimpleImageSlider
-        width={1080}
+        width={928}
         height={200}
         images={images}
         showBullets={true}
